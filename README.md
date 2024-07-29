@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjkuary.github.io/My-Portfolio/](https://sanjkuary.github.io/My-Portfolio/)
 
-- 📫 How to reach me **sanjeevk209488@gmail.com**
+- 📫 How to reach me **sanjeevk209488@gmail.com or +91 - 9891228089**
 
 - ⚡ Fun fact **I am funny😎**
 
