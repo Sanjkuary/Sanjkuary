@@ -1,17 +1,19 @@
 ![logo](https://github.com/Sanjkuary/Sanjkuary/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Yadav</h1>
-<h3 align="center">A passionate Application Support Engineer/ Technical Support Engineer/ Production Support Enginner and love to coding.</h3>
+<h3 align="center">A passionate Application Support Engineer/ Technical Support Engineer/ Production Support engineer and loves to do coding.</h3>
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjkuary&label=Profile%20views&color=0e75b6&style=flat" alt="sanjkuary" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sanjkuary.github.io/My-Portfolio/](https://sanjkuary.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Sanjkuary?tab=repositories](https://github.com/Sanjkuary?tab=repositories)
 
-- 📫 How to reach me **sanjeevk209488@gmail.com or +91 - 9891228089**
+- 📫 How to reach me: **sanjeevk209488@gmail.com or +91 - 9891228089**
+- 📫 My portfolio: https://sanjeev-portfolio94.netlify.app/
 
-- ⚡ Fun fact **I am funny😎**
+- ⚡ Fun fact: **I am funny😎 and I love working on web development projects📁, particularly focusing on creating dynamic and well-styled components!**
+- ⚡ Hobbies:  Reading Books, Traveling and Cooking.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
